@@ -4,4 +4,14 @@ body {
 
 input {
   margin: 5px;
+  display: block;
+  width: 300px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#message {
+  height: 100px;
+  resize: vertical;
 }
